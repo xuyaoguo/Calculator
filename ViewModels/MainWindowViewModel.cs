@@ -67,7 +67,7 @@ namespace Calculator.ViewModels
             {
                 if (_value.Contains("+") || _value.Contains("-") || _value.Contains("*") || _value.Contains("÷"))
                 {
-                    if (_value.IndexOf("+") != -1) 
+                    if (_value.IndexOf("+") != -1)
                     {
                         string[] strArray = _value.Split("+");
                         var number1 = Convert.ToInt64(strArray[0]);
