@@ -25,7 +25,7 @@ namespace Calculator.ViewModels
             }
         }
 
-        private string _datetime;
+        private string _datetime = "";
         
         public string Datetime
         {
