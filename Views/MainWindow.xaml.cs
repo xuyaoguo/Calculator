@@ -17,6 +17,7 @@ namespace Calculator.Views
         public MainWindow()
         {
             InitializeComponent();
+            //
         }
 
     }
