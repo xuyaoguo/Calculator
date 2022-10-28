@@ -18,6 +18,7 @@ namespace Calculator.Views
         {
             InitializeComponent();
             //test
+            //fix
         }
 
     }
